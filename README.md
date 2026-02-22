@@ -1,4 +1,4 @@
-# 🧪 Experiment 4: Study of Tuples in Python
+#  Experiment 4: Study of Tuples in Python
 
 ## Author
 - **Name:** Pushpak J  
